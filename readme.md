@@ -13,8 +13,3 @@ Cet outil permet d’analyser la robustesse d’un mot de passe et de fournir un
 ✅ Fournit des conseils d’amélioration  
 ✅ Interface colorée dans le terminal (via **Rich**)  
 ✅ Interface web simple avec **Flask**
-
----
-
-## 🧩 Structure du projet
-
