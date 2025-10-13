@@ -1,0 +1,4 @@
+Flask>=2.0
+jinja2
+pytest
+rich>=13.0

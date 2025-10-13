@@ -1,0 +1,10 @@
+@echo off
+echo Installation des dependances...
+pip install -r requirements.txt
+
+echo.
+echo Lancement de l'application...
+python pw_launcher.py
+
+echo.
+pause
